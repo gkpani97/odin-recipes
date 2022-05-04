@@ -2,4 +2,4 @@
 
 It is a website that contains some delicious recipes.
 
-Created to work on html.
+This site is made using html only.
